@@ -158,7 +158,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: #000000; }
 a:hover {
   color: #0FA0CE; }
 
@@ -288,7 +288,7 @@ label > .label-body {
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
-  list-style: circle inside; }
+  list-style: none; }
 ol {
   list-style: decimal inside; }
 ol, ul {
