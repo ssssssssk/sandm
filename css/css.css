@@ -18,8 +18,8 @@
   font-weight: 500;
   line-height: 1.0;
   color: rgba(0,0,255,.65);
-  text-shadow: -0.02em 0em rgba(255,0,0,.75),
-  0.02em 0em rgba(37,217,101,.75);
+  text-shadow: -0.5vw 0vw rgba(255,0,0,.75),
+  .5vw 0vw rgba(37,217,101,.75);
 
 }
 @media (min-width : 550px)  {
