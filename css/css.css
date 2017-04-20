@@ -4,7 +4,7 @@
 
 .colors {
   letter-spacing: .07em;
-  font-size: 3.0em;
+  font-size: 2.4rem;
   font-weight: 500;
   line-height: 1.3;
   color: rgba(0,0,255,.65);
@@ -14,7 +14,7 @@
 }
 .bigcolors {
   letter-spacing: .07em;
-  font-size: 3.25em;
+  font-size: 14vw;
   font-weight: 500;
   line-height: 1.0;
   color: rgba(0,0,255,.65);
@@ -22,6 +22,11 @@
   0.02em 0em rgba(37,217,101,.75);
 
 }
+@media (min-width : 550px)  {
+  .colors {font-size: 3.0rem;}
+
+}
+
 
 .content    {
   min-height:100vh;
